@@ -1,28 +1,30 @@
 # Hey, I'm Irfan
 
-I'm a gameplay programmer interested in building clean, scalable gameplay systems and AI architecture.
+I be programming gameplay stuff, making sure its clean and not hard coded
 
-I enjoy solving engineering problems behind game mechanics, with a strong focus on maintainability, modular design, and learning how different engines approach gameplay programming.
+Best part of programming is problem solving the very error u created for yourself....i gotta focus on maintainability or something..
+
+Also currently learning different engines/programming languages for more knaawwwledge
 
 ---
 
 ## What I'm working on
 
-* Learning Unreal Engine 5 and its gameplay framework
-* Building AI-focused gameplay systems in C++
-* Expanding my portfolio beyond Unity to become a stronger gameplay programmer
+* Trying to focus on NPC AI part of Unreal Engine
+* Looking into linux and how it works
+* Python with a end goal of knowing how AI works.. its everywhere D;
 
 ---
 
 ## Recent Project
 
-Recently completed a portfolio project: **Modular Ability Combat Framework (Unity)**, a data-driven combat framework exploring reusable gameplay architecture, modular ability execution, and custom editor tooling.
+A small project: **Modular Ability Combat Framework (Unity)**, learning how to use reusable gameplay architecture, modular ability execution and a lil bit of custom editor tooling.
 
 ---
 
 ## Background
 
-Recently completed National Service with the Singapore Police Force, where I worked in operational and administrative roles.
+Recently completed National Service with the Singapore Police Force, where I worked in operational and administrative roles. Currently working in IT
 
 The experience strengthened my ability to work methodically, take ownership of responsibilities, and solve practical problems in structured environments.
 
